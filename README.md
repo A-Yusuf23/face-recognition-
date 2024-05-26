@@ -7,6 +7,6 @@ This repository contains code for performing face detection using the OpenCV lib
     Detect faces in images and video streams.
     Choose from multiple face detection algorithms provided by OpenCV.
     Simple and easy-to-understand Python code.
-
+    
 #### Contributing
 Contributions are welcome!
